@@ -1,6 +1,6 @@
 # Copilot Instructions for conda-zsh-completion
 
-This project provides Zsh completion for the Conda package manager and related tools (Mamba, Micromamba). Here's what you need to know to be productive in this codebase:
+This project provides Zsh completion for the Conda package manager and related tools (Mamba, Micromamba). Here's what you need to know to be immediately productive in this codebase:
 
 ## Project Structure
 
